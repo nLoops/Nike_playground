@@ -32,6 +32,8 @@ dependencies:
   path_provider: ^1.6.8
   flutter_xlider: ^3.4.0
   font_awesome_flutter: ^8.8.1
+  provider: ^3.0.0
+  badges: ^1.1.1
 
 dev_dependencies:
   flutter_test:
